@@ -1,0 +1,6 @@
+POST http://127.0.0.1:8787/shortlink
+Content-Type: application/json
+
+{
+    "url": "https://v.douyin.com/ijEeuUyt/"
+}
